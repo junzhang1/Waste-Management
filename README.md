@@ -1,1 +1,3 @@
-# waste-management
+The goal of this project is to promote a more efficient, reliable and sustainable waste management system in the State of Optimization. The  objective of this project is therefore to identify strategies to transition from the current waste managementsystem to a modern system based on sanitary landfills. 
+
+The bulk of the analysis was performed through GAMS and MATLAB. In the basic model, the two major decisions that need to be made are how many landfills to deploy, and where to locate them across the state based on various economic, operational and environmental considerations. In the extended model, there're two more decisions, which are how many transfer stations to deploy, and where to locate them across the state. We are given 3 files: 95 centers where waste is collected every day based on 15 scenarios, 22 potential landflls, and 84 potential transfer stations.
